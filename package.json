@@ -1,0 +1,20 @@
+{
+  "name": "redis-ws-vue3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^3.0.2",
+    "ws": "^8.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
